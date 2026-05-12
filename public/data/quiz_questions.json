@@ -1,0 +1,200 @@
+{
+  "quiz_njp": {
+    "title": "NJP Station Check",
+    "question": "What is special about the Darjeeling Himalayan Railway that begins at New Jalpaiguri?",
+    "options": [
+      {
+        "label": "It is a UNESCO World Heritage Site and runs on a narrow two-foot gauge",
+        "correct": true
+      },
+      {
+        "label": "It is the widest gauge railway in the world",
+        "correct": false
+      },
+      {
+        "label": "It runs entirely underground through the hills",
+        "correct": false
+      }
+    ]
+  },
+  "quiz_mirik": {
+    "title": "Mirik Lake Check",
+    "question": "What is the name of the lake at the centre of Mirik, crossed by a wooden footbridge?",
+    "options": [
+      {
+        "label": "Tsomgo Lake",
+        "correct": false
+      },
+      {
+        "label": "Sumendu Lake",
+        "correct": true
+      },
+      {
+        "label": "Khecheopalri Lake",
+        "correct": false
+      }
+    ]
+  },
+  "quiz_rohini": {
+    "title": "Rohini Road Check",
+    "question": "What do the five colours of the prayer flags strung along Rohini Road traditionally represent?",
+    "options": [
+      {
+        "label": "The five Himalayan kingdoms",
+        "correct": false
+      },
+      {
+        "label": "Sky, air, fire, water, and earth",
+        "correct": true
+      },
+      {
+        "label": "Five rivers of the Darjeeling district",
+        "correct": false
+      }
+    ]
+  },
+  "quiz_darjeeling": {
+    "title": "Darjeeling Check",
+    "question": "Why is Darjeeling tea sometimes called 'the champagne of teas'?",
+    "options": [
+      {
+        "label": "Because of its delicate muscatel flavour and prized first-flush harvest",
+        "correct": true
+      },
+      {
+        "label": "Because it is mixed with sparkling water before serving",
+        "correct": false
+      },
+      {
+        "label": "Because it is only served at royal weddings",
+        "correct": false
+      }
+    ]
+  },
+  "quiz_darjeeling_stage4": {
+    "title": "Darjeeling Railway Check",
+    "question": "From which famous viewpoint above Darjeeling do travellers watch the sunrise turn Kanchenjunga gold?",
+    "options": [
+      {
+        "label": "Tiger Hill",
+        "correct": true
+      },
+      {
+        "label": "Observatory Hill",
+        "correct": false
+      },
+      {
+        "label": "Jalapahar Hill",
+        "correct": false
+      }
+    ]
+  },
+  "quiz_ghoom_stage5": {
+    "title": "Ghoom Monastery Check",
+    "question": "Ghoom Monastery — also called Yiga Choeling — was founded in 1850 by a monk from which region?",
+    "options": [
+      {
+        "label": "Mongolia",
+        "correct": true
+      },
+      {
+        "label": "Bhutan",
+        "correct": false
+      },
+      {
+        "label": "Nepal",
+        "correct": false
+      }
+    ]
+  },
+  "quiz_ghoom": {
+    "title": "Ghoom Monastery Check",
+    "question": "At 2,258 metres, what record does Ghoom railway station hold?",
+    "options": [
+      {
+        "label": "It is the oldest station in India",
+        "correct": false
+      },
+      {
+        "label": "It is the highest railway station in India",
+        "correct": true
+      },
+      {
+        "label": "It is the only underground station in India",
+        "correct": false
+      }
+    ]
+  },
+  "quiz_sandakphu_trail": {
+    "title": "Sandakphu Geography",
+    "question": "Which flower, the state flower of Sikkim, colours the Singalila trail red and pink each spring?",
+    "options": [
+      {
+        "label": "Rhododendron",
+        "correct": true
+      },
+      {
+        "label": "Marigold",
+        "correct": false
+      },
+      {
+        "label": "Lotus",
+        "correct": false
+      }
+    ]
+  },
+  "quiz_sandakphu_summit": {
+    "title": "Sandakphu Summit Check",
+    "question": "At 3,636 metres, what is Sandakphu's claim within West Bengal?",
+    "options": [
+      {
+        "label": "It is the lowest pass in the region",
+        "correct": false
+      },
+      {
+        "label": "It is the highest point in West Bengal",
+        "correct": true
+      },
+      {
+        "label": "It is the wettest place in India",
+        "correct": false
+      }
+    ]
+  },
+  "FINAL_CHALLENGE": {
+    "type": "multi",
+    "title": "Final Reflection",
+    "questions": [
+      {
+        "prompt": "From Sandakphu, four of the world's five highest peaks are visible. Which four?",
+        "options": [
+          "Everest, Lhotse, Makalu, and Kanchenjunga",
+          "K2, Everest, Annapurna, and Manaslu",
+          "Everest, Nanga Parbat, K2, and Dhaulagiri",
+          "Annapurna, Lhotse, K2, and Cho Oyu"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "prompt": "What is the 'Sleeping Buddha' that appears across the horizon at sunrise?",
+        "options": [
+          "A natural formation of the Kanchenjunga range that resembles a reclining Buddha",
+          "A statue carved into the side of Sandakphu peak",
+          "A monastery built on top of Tiger Hill",
+          "A train route shaped like a Buddha figure"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "prompt": "Darjeeling tea was the first Indian product to receive which official protection?",
+        "options": [
+          "A Geographical Indication (GI) tag",
+          "A UNESCO Intangible Heritage listing",
+          "A national flower designation",
+          "A Royal Charter from England"
+        ],
+        "correctIndex": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "dialogue_inspector": {
+    "speaker": "Inspector",
+    "lines": [
+      "Welcome to New Jalpaiguri, Tenzing. From this platform the plains end and the Himalayas begin.",
+      "Your blue toy train runs on a narrow two-foot gauge — one of the smallest working railways in the world."
+    ]
+  },
+  "dialogue_boatman": {
+    "speaker": "Boatman",
+    "lines": [
+      "Sumendu Lake is the heart of Mirik. Pine forests on one shore, an orange orchard road on the other.",
+      "The wooden Indreni footbridge crosses the water at its narrowest point — the locals call it the rainbow bridge.",
+      "Row gently here, Tenzing. The lake is fed by springs from the surrounding ridges, and the surface remembers every ripple."
+    ]
+  },
+  "dialogue_old_traveler": {
+    "speaker": "Old Traveler",
+    "lines": [
+      "Rohini Road is the newest route to the hills — opened in the 2000s after the old Pankhabari road grew too steep for buses.",
+      "Watch the prayer flags strung between the pines. The five colours stand for sky, air, fire, water, and earth.",
+      "If the mist closes in, slow down and listen. On these bends the mountain tells you what the eyes cannot see."
+    ]
+  },
+  "dialogue_tea_worker": {
+    "speaker": "Tea Worker",
+    "lines": [
+      "We pluck only two leaves and a bud — that is the rule for true Darjeeling tea.",
+      "The first flush of spring is the most prized harvest in the world; some call it the champagne of teas."
+    ]
+  },
+  "dialogue_darjeeling_tea_worker": {
+    "speaker": "Tea Worker",
+    "lines": [
+      "Darjeeling town sits at about 2,000 metres above the sea. The air is thinner here, and so are the clouds.",
+      "From Tiger Hill at dawn, the Kanchenjunga turns gold before the sun has even reached our rooftops.",
+      "Mall Road and Chowrasta have been the meeting place of this town since the British days — but the chai stalls belong to us."
+    ]
+  },
+  "dialogue_monk": {
+    "speaker": "Monk",
+    "lines": [
+      "Welcome to Ghoom, Tenzing. At 2,258 metres, you stand at the highest railway station in India.",
+      "Inside our gompa, the Maitreya Buddha rises fifteen feet tall — the future Buddha, waiting in patience for his age to come.",
+      "Spin the prayer wheels clockwise as you pass. Each turn releases a mantra into the wind, carried out across the hills.",
+      "Even the heaviest fog lifts in time. The mountains teach us that nothing — joy or sorrow — stays forever."
+    ]
+  },
+  "dialogue_monk_stage5": {
+    "speaker": "Monk",
+    "lines": [
+      "Yiga Choeling — our old name. Founded in 1850 by the Mongolian monk Sokpo Sherab Gyatso, the oldest Tibetan monastery in the Darjeeling hills.",
+      "The Maitreya you see was built from clay brought all the way from Tibet, mixed with the waters of these hills.",
+      "Books in our library are written in Tibetan, on long paper leaves wrapped in silk. Some are over a hundred years old."
+    ]
+  },
+  "dialogue_guide_trail": {
+    "speaker": "Guide",
+    "lines": [
+      "The Singalila ridge is the spine we follow. To your left lies Nepal, to your right is India — the trail walks the border.",
+      "In spring these slopes turn red and pink with rhododendron — Sikkim's state flower, and the soul of these forests.",
+      "Sandakphu rises to 3,636 metres. From there you can see four of the world's five tallest peaks in a single horizon."
+    ]
+  },
+  "dialogue_guide_trail_old": {
+    "speaker": "Guide",
+    "lines": [
+      "Take small breaths and small steps. Above 3,000 metres the body learns a different rhythm.",
+      "Tonglu, Tumling, Kalipokhri — each shelter on the way has its own story and its own stove."
+    ]
+  },
+  "dialogue_guide_summit": {
+    "speaker": "Guide",
+    "lines": [
+      "You stand on Sandakphu now — the highest point in West Bengal.",
+      "From here, the clouds drift below us instead of above."
+    ]
+  },
+  "DIALOG_STAGE_7_TRAVELER": {
+    "lines": [
+      {
+        "speaker": "Wise Traveler",
+        "text": "Wait for the first light, Tenzing. As the sun rises, Kanchenjunga takes the shape of a Sleeping Buddha lying across the sky."
+      },
+      {
+        "speaker": "Wise Traveler",
+        "text": "The head is the peak of Kabru, the body is Kanchenjunga itself, and the feet stretch toward Pandim."
+      },
+      {
+        "speaker": "Wise Traveler",
+        "text": "Everest, Lhotse, Makalu, Kanchenjunga — four of the world's five highest peaks, all visible from this single ridge."
+      },
+      {
+        "speaker": "Wise Traveler",
+        "text": "You have come a long way from the platforms of NJP. The mountains remember every traveler who reaches them."
+      }
+    ],
+    "choices": null
+  },
+  "DIALOG_STAGE_7_GUIDE_2": {
+    "lines": [
+      {
+        "speaker": "Mountain Guide",
+        "text": "On the clearest mornings, the snow line of Kanchenjunga catches fire — first orange, then gold, then white."
+      },
+      {
+        "speaker": "Mountain Guide",
+        "text": "Travelers wait silently for this moment. The mountains do not perform; they simply appear, and we are lucky to witness them."
+      }
+    ],
+    "choices": null
+  },
+  "DIALOG_STAGE_7_SUMMIT": {
+    "speaker": "Wise Traveler",
+    "lines": [
+      "There — see how Kanchenjunga lies on her side? That is the Sleeping Buddha the old maps speak of.",
+      "Kanchenjunga rises to 8,586 metres, the third highest mountain on earth, and the guardian of Sikkim.",
+      "The toy train carried you out of the plains; the Rohini road carried you up the hills; but only your own feet brought you here.",
+      "Every prayer wheel you turned at Ghoom, every cup of tea in Darjeeling, every bend of the Singalila ridge — all of it is part of this view.",
+      "Rest now, Tenzing. The mountains were here long before you, and they will remain. But for this morning, you are part of them."
+    ]
+  },
+  "DIALOG_STAGE_5_MONK_1": {
+    "lines": [
+      {
+        "speaker": "Monk",
+        "text": "Welcome to Yiga Choeling — Ghoom Monastery. The wheels you hear turning are filled with mantras, one for every revolution."
+      },
+      {
+        "speaker": "Monk",
+        "text": "Travelers have stopped here for more than 170 years. Some come for the Buddha, some for the silence, some only for shelter from the fog."
+      }
+    ],
+    "choices": null
+  },
+  "DIALOG_STAGE_4_TEA_WORKER_IDLE": {
+    "lines": [
+      {
+        "speaker": "Tea Worker",
+        "text": "Darjeeling has 87 tea gardens — Happy Valley, just below the town, is the oldest still working."
+      },
+      {
+        "speaker": "Tea Worker",
+        "text": "Our tea bushes were grown from seeds the British carried out of China in the 1800s. They took to these hills as if they had always belonged here."
+      }
+    ],
+    "choices": null
+  },
+  "DIALOG_STAGE_4_TEA_WORKER_TALK": {
+    "lines": [
+      {
+        "speaker": "Tea Worker",
+        "text": "Darjeeling tea was the first Indian product to receive the GI tag — only tea grown in these hills can be sold under that name."
+      },
+      {
+        "speaker": "Tea Worker",
+        "text": "Cool mist, sloping soil, and high altitude give our leaves their muscatel flavour — a taste no other garden in the world can copy."
+      }
+    ],
+    "choices": null
+  }
+}
+// Barshat
